@@ -1,11 +1,15 @@
 Hi, my name is Jolie. I'm looking to make a career transition to Data Analysis/ Data Science field. 
 
-o Proven abilities to adapt to business requirements and learn new skills.
+- Proven abilities to adapt to business requirements and learn new skills.
 
-o Domain knowledge across business, marketing ando perations throughout previous work experiences.
+- Domain knowledge across business, marketing and operations throughout previous work experiences.
 
-o Demonstrated problem solving skills to develop suitable solutions.
+- Demonstrated problem solving skills to develop suitable solutions.
 
-o Technical Skills: Excel, SQL, Python, R
+- Technical Skills: Excel, SQL, Python, R
 
-o Visualisation tools: Tableau, Power BI
+- Visualisation tools: Tableau, Power BI
+
+LinkedIn: https://www.linkedin.com/in/jolie-phuong-pham/
+RPubs: https://rpubs.com/jolie_pham
+Tableau: https://public.tableau.com/app/profile/jolie.p.pham
