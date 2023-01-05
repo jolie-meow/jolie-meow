@@ -10,6 +10,8 @@ Hi, my name is Jolie. I'm looking to make a career transition to Data Analysis/ 
 
 - Visualisation tools: Tableau, Power BI
 
-LinkedIn: https://www.linkedin.com/in/jolie-phuong-pham/
-RPubs: https://rpubs.com/jolie_pham
-Tableau: https://public.tableau.com/app/profile/jolie.p.pham
+**LinkedIn**: *https://www.linkedin.com/in/jolie-phuong-pham/*
+
+**RPubs** : *https://rpubs.com/jolie_pham*
+
+**Tableau**: *https://public.tableau.com/app/profile/jolie.p.pham*
