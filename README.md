@@ -1,10 +1,10 @@
 Hi, my name is Jolie. I'm looking to make a career transition to Data Analysis/ Data Science field. 
 
-- Proven abilities to adapt to business requirements and learn new skills.
+-	Proven abilities to adapt to business requirements, working in Agile teams and learning new skills.
 
-- Domain knowledge across business, marketing and operations throughout previous work experiences.
+-	Acquired domain knowledge across different departments (business, marketing and operations) throughout previous work experiences.
 
-- Demonstrated problem solving skills to develop suitable solutions.
+-	Demonstrated investigative and analytic skills to develop suitable solutions.
 
 - Technical Skills: Excel, SQL, Python, R
 
